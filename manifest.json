@@ -1,0 +1,14 @@
+{
+  "manifest_version": 2,
+  "name": "TappdIn",
+  "version": "1.0",
+  "description": "Search selected terms on Untappd",
+  "permissions": ["contextMenus"],
+  "background": {
+    "scripts": ["background.js"]
+  },
+  "icons": {
+    "48": "48_icon.png",
+    "128": "128_icon.png"
+  }
+}
