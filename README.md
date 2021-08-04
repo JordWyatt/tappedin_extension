@@ -11,3 +11,7 @@ Pull requests are welcome.
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
+
+## Demo
+
+![Demonstration](./demo.gif)
